@@ -1,17 +1,26 @@
-# screens_lead
+# Flutter 2026 — Nurzhas
 
-A new Flutter project.
+This repository contains my Flutter coursework, including practical assignments and mobile application development projects.
 
-## Getting Started
+## Project Structure
 
-This project is a starting point for a Flutter application.
+- **Lab 1** — Flutter mobile application
+- **Practice 2** — Flutter practice
+- **Practice 3** — Flutter practice
+- **Practice 4** — Flutter practice
+- **Practice 6** — Flutter practice
+- **Practice 7** — Flutter practice
+- **Practice 8** — Flutter practice
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Visual Studio Code
+- Git and GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+1. Open the desired practice folder.
+2. Install dependencies using `flutter pub get`.
+3. Run the application using `flutter run`.
